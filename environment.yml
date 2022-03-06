@@ -1,0 +1,19 @@
+# To use:
+#   $ conda env create -f environment.yml
+#   $ conda activate <name>
+name: machinelearnear-RealBasicVSR-youtube
+dependencies:
+  - python=3.9
+  - pip
+  - nb_conda_kernels
+  - ipykernel
+  - ipywidgets
+  - gh
+  - ffmpeg
+  - pip:
+    - torch
+    - torchvision
+    - youtube-dl
+    - matplotlib
+    - opencv-python
+    - tqdm

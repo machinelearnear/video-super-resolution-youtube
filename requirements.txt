@@ -1,0 +1,6 @@
+torch
+torchvision
+youtube-dl
+matplotlib
+opencv-python
+tqdm
