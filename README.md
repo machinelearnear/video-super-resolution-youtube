@@ -17,6 +17,10 @@ This repository shows a quick demo for how to upscale videos downloaded from You
 
 ## Example results
 
+Two videos in YouTube (short duration, low input quality).
+- https://www.youtube.com/watch?v=wM3yPjqgP98
+- https://www.youtube.com/watch?v=AQ2TMU1eg1Q
+
 Here are some before and after images that have been processed through `RealBasicVSR`. Depending on how different the test data is from the trainig data used, results will vary. The `VideoLQ-Dataset` can be explored and downloaded [here](https://github.com/ckkelvinchan/RealBasicVSR/blob/master/README.md#videolq-dataset).
 
 ![Arbolada-4K](img2.png)
