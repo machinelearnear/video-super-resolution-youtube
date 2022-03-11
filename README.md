@@ -31,8 +31,8 @@ Here are some before and after images that have been processed through `RealBasi
 
 ## How to run with your own videos
 
-- Click the following button to open the example Notebook [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/machinelearnear/openai-glide-text2im/blob/main/text2im.ipynb).
-- Once opened, click on `Copy to Project` to clone the repo into Studio Lab. Because we have included an `environment.yml` file, Studio Lab will automatically build a Conda environment will all required dependencies. It will named `machinelearnear-RealBasicVSR-youtube` and will be selected by default when you open the sample Notebook.
+- Click the following button to open the sample Notebook [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/machinelearnear/video-super-resolution-youtube/blob/main/example_w_RealBasicVSR.ipynb)
+- Once opened, click on `Copy to Project` to clone the repo into Studio Lab. Because we have included an `environment.yml` file, Studio Lab will automatically build a Conda environment with all required dependencies. It will be named as `machinelearnear-RealBasicVSR-youtube` and will be selected by default when you open the sample Notebook.
 
 ## References
 ```bibtext
