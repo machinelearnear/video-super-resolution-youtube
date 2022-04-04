@@ -4,6 +4,9 @@ This repository shows a quick demo for how to upscale videos downloaded from You
 
 ![RealBasicVSR-paper](img1.png)
 
+## YouTube Video
+[![Upscaling videos (even YouTube) with VSR](https://img.youtube.com/vi/dpC71lWTkGw/0.jpg)](https://www.youtube.com/watch?v=dpC71lWTkGw)
+
 ## Get started with SR (Super Resolution)
 - [How Super Resolution Works](https://www.youtube.com/watch?v=KULkSwLk62I&ab_channel=LeoIsikdogan)
 - [MMEditing](https://github.com/open-mmlab/mmediting). MMEditing is an open source image and video editing toolbox based on PyTorch.
